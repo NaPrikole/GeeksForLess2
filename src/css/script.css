@@ -1,0 +1,16 @@
+#ui-response {
+  display: none;
+}
+#message {
+  color: green;
+  font-size: 18px;
+  font-style: italic;
+  padding-left: 15px;
+}
+.error {
+  border: 2px solid red;
+}
+#spinner {
+  margin: 0 auto;
+  display: none;
+}
